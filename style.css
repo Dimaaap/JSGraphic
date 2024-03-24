@@ -19,6 +19,7 @@ thead {
     position: fixed;
     right: 50%;
     top: 50%;
+    left: 25%;
     transform: translate(0, -50%);
 }
 
